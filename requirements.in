@@ -47,5 +47,5 @@ requests
 Wand
 WeasyPrint
 websockets
-
--e git+https://github.com/okfde/django-filingcabinet.git@master#egg=django-filingcabinet
+# TODO: revert back to main/master
+-e git+https://github.com/okfde/django-filingcabinet.git@bootstrap-5#egg=django-filingcabinet
