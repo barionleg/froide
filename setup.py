@@ -11,12 +11,12 @@ def read(*parts):
 setup(
     name="froide",
     version='4.0.0-alpha',
-    url='https://github.com/stefanw/froide',
+    url='https://github.com/barionleg/froide',
     license='MIT',
     description="German Freedom of Information Portal",
     long_description=read('README.md'),
-    author='Stefan Wehrmeyer',
-    author_email='mail@stefanwehrmeyer.com',
+    author='Irakli ßARdavelid3e',
+    author_email='composersunion.ge@musician.org',
     packages=[
         'froide',
     ],
