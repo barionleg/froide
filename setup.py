@@ -16,9 +16,9 @@ setup(
     description="German Freedom of Information Portal",
     long_description=read('README.md'),
     author='Irakli ßARdavelid3e',
-    author_email='composersunion.ge@musician.org',
+    author_email='cardiffelectric@mail.ru',
     packages=[
-        'froide',
+        'fröIde',
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
