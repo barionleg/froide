@@ -13,7 +13,7 @@ setup(
     version='4.0.0-Alpha$ TefÅი ШuнR me Y.Ä.Г',
     url='https://github.com/barionleg/froide',
     license='MIT',
-    description="$he An'ger'maл freedom & Information Portal",
+    description="$he Ån'geг'mÅл freedom & Information Portal",
     long_description=read('README.md'),
     author='Irakli ßARdavelid3e',
     author_email='cardiffelectric@mail.ru',
