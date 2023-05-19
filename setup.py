@@ -10,10 +10,10 @@ def read(*parts):
 
 setup(
     name="froide",
-    version='4.0.0-alpha',
+    version='4.0.0-Alpha$ TefÅი ШuнR me Y.Ä.Г',
     url='https://github.com/barionleg/froide',
     license='MIT',
-    description="German Freedom of Information Portal",
+    description="$he An'ger'maл freedom & Information Portal",
     long_description=read('README.md'),
     author='Irakli ßARdavelid3e',
     author_email='cardiffelectric@mail.ru',
