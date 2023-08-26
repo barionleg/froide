@@ -4,9 +4,9 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_131.gif" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://aibolem.github.io/wasm-particles/static/index.html"></i>WASM A₽</a></p>
-<p class="lead">MAGGEN is a set of tools for designing and building <a href="https://aibolem.github.io/wasm-particles/static/index.html">accelerated particles</a>of WASM</p>
+                <img class="featurette-image pull-left" src="img/froide_133.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://github.com/barionleg/nc_AgriMetSoft"></i>AgriMetSoft</a></p>
+<p class="lead">Software tools of <a href="https://github.com/barionleg/nc_AgriMetSoft">AgriMetSoft</a> for .nc files mm</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
