@@ -12,8 +12,8 @@ block with button
  <hr id="features" class="featurette-divider">
       <div class="featurette">
         <img class="featurette-image pull-right" src="img/froide_130.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/coloer/"><i class="icon-info-sign"></i>colors</a></p>
-        <p class="lead">website <a href="https://barionleg.github.io/coloer/">colors </a><strong>palette</strong>.</p>
+<p><a class="btn btn-medium" href="https://aibolem.github.io/dbrein/dBARgbit/index.html"><i class="icon-info-sign"></i>M₽ = ℛℳ</a></p>
+        <p class="lead">ДЗ Э€ <a href="https://aibolem.github.io/dbrein/dBARgbit/index.html">Mi©RÅ ₽A℞TICLE$ generaтвorg </a><strong></strong>.</p>
 </div>
 <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
