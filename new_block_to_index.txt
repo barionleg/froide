@@ -6,7 +6,7 @@ block with button
       <div class="featurette">
                 <img class="featurette-image pull-left" src="img/froide_129.gif" alt="frÖIdᴱ℞Bærჼlin">
   <p><a class="btn btn-medium" href="https://aibolem.github.io/maggen/designer/index.html"></i>Afgd</a></p>
-<p class="lead">MAGGEN is a set of tools for designing and building <a href="https://aibolem.github.io/maggen/designer/index.html">Axial Flux Generators</a>
+<p class="lead">MAGGEN is a set of tools for designing and building <a href="https://www.youtube.com/watch?v=fDmO5e-xQS0">Axial Flux TORS</a>$₽Øთ [SRO თ°] in ACTION i$ fÄNTA$TI©! ЧØÖh ₽ книгÆg Ё₽т</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
