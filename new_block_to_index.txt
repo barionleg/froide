@@ -4,14 +4,14 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_133.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://github.com/barionleg/nc_AgriMetSoft"></i>AgriMetSoft</a></p>
-<p class="lead">Software tools of <a href="https://github.com/barionleg/nc_AgriMetSoft/wiki">AgriMetSoft wiki</a> for .nc files mm</p>
+                <img class="featurette-image pull-left" src="img/froide_135.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/LuksOracle_frontend/"></i>LuksORACLE</a></p>
+<p class="lead"> Software tools of <a href="https://barionleg.github.io/LuksOracle_frontend/">LuksORACLE</a> by barionleg development <strong>OBS! WE ARE NOT BEHIND THIS CRYPTO OPERATIONS, </strong>but who are better be a thankfull! ibanknÅTO₽RÅd [d'bA℞A]</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_134.png" alt="frÖIdᴱ℞Bærჼlin">
+        <img class="featurette-image pull-right" src="img/froide_136.png" alt="frÖIdᴱ℞Bærჼlin">
 <p><a class="btn btn-medium" href="https://github.com/barionleg/deep_Learning_for_bacteria_Identification_using_Raman_Spectroscopy"><i class="icon-info-sign"></i>Deep Learning for Bacteria Identification using ₽Åmaн 円* $₽€©TSRÅSCOO℞¥.</a>*円 = STEREO ViSION by my grand parents. </p>
         <p class="lead">Deep_Learning_for_ <a href="https://github.com/barionleg/deep_Learning_for_bacteria_Identification_using_Raman_Spectroscopy">Bacteria Identification using Raman Spectroscopy </a><strong></strong>.</p>
 </div>
