@@ -12,8 +12,8 @@ block with button
  <hr id="features" class="featurette-divider">
       <div class="featurette">
         <img class="featurette-image pull-right" src="img/froide_136.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://github.com/barionleg/deep_Learning_for_bacteria_Identification_using_Raman_Spectroscopy"><i class="icon-info-sign"></i>Deep Learning for Bacteria Identification using ₽Åmaн 円* $₽€©TSRÅSCOO℞¥.</a>*円 = STEREO ViSION by my grand parents. </p>
-        <p class="lead">Deep_Learning_for_ <a href="https://github.com/barionleg/deep_Learning_for_bacteria_Identification_using_Raman_Spectroscopy">Bacteria Identification using Raman Spectroscopy </a><strong></strong>.</p>
+<p><a class="btn btn-medium" href="https://github.com/barionleg/QERaman"><i class="icon-info-sign"></i>QERaman</a>
+        <p class="lead">program for computing the first-order resonance Raman [₽ÅmAhoв Потахов от вода потабле далее Романов, продан или арендован блядядей видимо, тойсть его зять? знать бы что замыслили мой рутанги ...] spectroscopy based on Quantum ESPRESSO <a href="https://github.com/barionleg/QERaman">QERaman </a><strong>Q бочка Э₽ÄÅМАН</strong>.</p>
 </div>
 <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
