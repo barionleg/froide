@@ -11,9 +11,9 @@ block with button
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_132.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://aibolem.github.io/musicplayer.js/"><i class="icon-info-sign"></i>HTML5 Javascript musicplayer</a></p>
-        <p class="lead">HTML5 Javascript <a href="https://aibolem.github.io/musicplayer.js/">musicplayer </a>with no depenencies - customizable by CSS<strong></strong>.</p>
+        <img class="featurette-image pull-right" src="img/froide_134.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://github.com/barionleg/deep_Learning_for_bacteria_Identification_using_Raman_Spectroscopy"><i class="icon-info-sign"></i>Deep Learning for Bacteria Identification using ₽Åmaн 円* $₽€©TSRÅSCOO℞¥.</a>*円 = STEREO ViSION by my grand parents. </p>
+        <p class="lead">Deep_Learning_for_ <a href="https://github.com/barionleg/deep_Learning_for_bacteria_Identification_using_Raman_Spectroscopy">Bacteria Identification using Raman Spectroscopy </a><strong></strong>.</p>
 </div>
 <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
