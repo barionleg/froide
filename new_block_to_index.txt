@@ -4,16 +4,16 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_135.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/LuksOracle_frontend/"></i>LuksORACLE</a></p>
-<p class="lead"> Software tools of <a href="https://barionleg.github.io/LuksOracle_frontend/">LuksORACLE</a> by barionleg development <strong>OBS! WE ARE NOT BEHIND THIS CRYPTO OPERATIONS, </strong>but who are better be a thankfull! ibanknÅTO₽RÅd [d'bA℞A]</p>
+                <img class="featurette-image pull-left" src="img/froide_137.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/Australian_Open_Interactive_Viz/AustralianOpenInteractiveViz.html"></i>legAustrÅlian Open Interactive Viz</a></p>
+<p class="lead">zoomable sunburst <a href="https://barionleg.github.io/Australian_Open_Interactive_Viz/AustralianOpenInteractiveViz.html">legAustrÅlian Open Interactive Visualization</a> using d3 <strong>javascript library</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_136.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://github.com/barionleg/QERaman"><i class="icon-info-sign"></i>QERaman</a>
-        <p class="lead">program for computing the first-order resonance Raman [₽ÅmAhoв Потахов от вода потабле далее Романов, продан или арендован блядядей видимо, тойсть его зять? знать бы что замыслили мой рутанги ...] spectroscopy based on Quantum ESPRESSO <a href="https://github.com/barionleg/QERaman">QERaman </a><strong>Q бочка Э₽ÄÅМАН</strong>.</p>
+        <img class="featurette-image pull-right" src="img/froide_138.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/zoomable_sunburst_d3/zoomable_sunburst_d3.html"><i class="icon-info-sign"></i>zoomable sunburst</a>
+        <p class="lead"><a href="https://barionleg.github.io/zoomable_sunburst_d3/zoomable_sunburst_d3.html">zoomable sunburst</a><strong></strong>.</p>
 </div>
 <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
