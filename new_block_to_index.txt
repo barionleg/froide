@@ -4,16 +4,16 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_148.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://germinateplatform.github.io/get-germinate/"></i>Germinate</a></p>
-<p class="lead"><a href="https://github.com/barionleg/germinate-vue">Germinate</a>SdlSamplePh1<strong></strong></p>
+                <img class="featurette-image pull-left" src="img/froide_150.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://aibolem.github.io/eemUtils/"></i>plot eem3D</a></p>
+<p class="lead"><a href="https://aibolem.github.io/eemUtils/">plot eem3D</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_149.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://aibolem.github.io/chemistry-explorer/"><i class="icon-info-sign"></i>Periodic Table of the Elements</a>
-<p class="lead"><a href="https://aibolem.github.io/chemistry-explorer/">Periodic Table of the Elements</a><strong></strong>.</p>
+        <img class="featurette-image pull-right" src="img/froide_151.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/CRS/"><i class="icon-info-sign"></i>©R$</a>
+<p class="lead">Conversion for Raman Spectroscopy<a href="https://barionleg.github.io/CRS/">©R$</a><strong></strong>maby calculator works not properly, we'll fix it, but we would like to show our challenge to made wather generator.</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
