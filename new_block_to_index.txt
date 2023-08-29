@@ -4,17 +4,18 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_144.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/mapbox_delaunator/demo.html"></i>mapbox_delaunator
-</a></p>
-<p class="lead">figcaption. possible <a href="https://barionleg.github.io/plot/test/output/figcaption.html">feedcaption</a> using  <strong>AB© frequency</strong></p>
+                <img class="featurette-image pull-left" src="img/froide_143.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/d3/"></i>ДЗЭ€ [d3e] by OBS!</a></p>
+<p class="lead">sien©e 1932 Ро©cu₽Åванные dynamic visualizations <a href="https://barionleg.github.io/d3/">ДЗЭ€ [d3e] by OBS!</a> by  <strong>ⴌ.кв. 64</strong> frÅn ₽_TbII©$Å₽</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_145.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/plot/test/output/colorSchemesQuantitative.html"><i class="icon-info-sign"></i>Color Schemes Quantitative</a>
-        <p class="lead"><a href="https://barionleg.github.io/plot/test/output/colorSchemesQuantitative.html">Color Schemes Quantitative</a><strong></strong>.</p>
+        <img class="featurette-image pull-right" src="img/froide_146.gif" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/lloyd_relax_tessler/"><i class="icon-info-sign"></i>lloyd_relax_tessler
+</a>
+        <p class="lead">A modified version of <a href="https://barionleg.github.io/lloyd_relax_tessler/">lloyd_relax_tessler
+</a><strong> Rendered in svg and canvas</strong>.</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
