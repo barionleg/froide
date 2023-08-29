@@ -4,16 +4,17 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_141.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://aibolem.github.io/heksagons/index.html"></i>bARYOჼ ჼhexAgons</a></p>
-<p class="lead">EKIM MIKE BO$TO©K <a href="https://aibolem.github.io/heksagons/index.html">bARYOჼ ჼhexAgons</a> using d3 <strong></strong></p>
+                <img class="featurette-image pull-left" src="img/froide_144.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/mapbox_delaunator/demo.html"></i>mapbox_delaunator
+</a></p>
+<p class="lead">figcaption. possible <a href="https://barionleg.github.io/plot/test/output/figcaption.html">feedcaption</a> using  <strong>AB© frequency</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_142.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/colorbrewerY/#type=sequential&scheme=Reds&n=3"><i class="icon-info-sign"></i>colorbrewer Y</a>
-        <p class="lead"><a href="https://barionleg.github.io/colorbrewerY/#type=sequential&scheme=Reds&n=3">colorbrewer Y</a><strong></strong>.</p>
+        <img class="featurette-image pull-right" src="img/froide_145.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/plot/test/output/colorSchemesQuantitative.html"><i class="icon-info-sign"></i>Color Schemes Quantitative</a>
+        <p class="lead"><a href="https://barionleg.github.io/plot/test/output/colorSchemesQuantitative.html">Color Schemes Quantitative</a><strong></strong>.</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
