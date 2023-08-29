@@ -4,16 +4,16 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_150.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://aibolem.github.io/eemUtils/"></i>plot eem3D</a></p>
-<p class="lead"><a href="https://aibolem.github.io/eemUtils/">plot eem3D</a><strong></strong></p>
+                <img class="featurette-image pull-left" src="img/froide_152.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/pyRaman/pyRaman_Simple_Tutorial.html"></i>pyRaman</a></p>
+<p class="lead">программная библиотека для <a href="https://barionleg.github.io/pyRaman/pyRaman_Simple_Tutorial.html">pyRaman</a><strong> рамановской</strong> визуализации.</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_151.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/CRS/"><i class="icon-info-sign"></i>©R$</a>
-<p class="lead">Conversion for Raman Spectroscopy<a href="https://barionleg.github.io/CRS/">©R$</a><strong></strong>maby calculator works not properly, we'll fix it, but we would like to show our challenge to made wather generator.</p>
+        <img class="featurette-image pull-right" src="img/froide_153.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://codepen.io/barionleg/full/YzdqGNV"><i class="icon-info-sign"></i>Interactive Particles</a>
+<p class="lead"><a href="https://codepen.io/barionleg/full/YzdqGNV">Interactive Particles</a> on <strong>bARIONLeg CODEPEN</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
