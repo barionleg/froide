@@ -4,18 +4,16 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_143.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/d3/"></i>ДЗЭ€ [d3e] by OBS!</a></p>
-<p class="lead">sien©e 1932 Ро©cu₽Åванные dynamic visualizations <a href="https://barionleg.github.io/d3/">ДЗЭ€ [d3e] by OBS!</a> by  <strong>ⴌ.кв. 64</strong> frÅn ₽_TbII©$Å₽</p>
+                <img class="featurette-image pull-left" src="img/froide_146.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://ascii.jp/elem/000/001/804/1804956/"></i>ДЗЭ€ [d3e] by OBS!</a></p>
+<p class="lead">本アプリケーションの位置づけ <a href="https://github.com/barionleg/SdlSamplePh2">ascii.jp</a>SdlSamplePh1<strong></strong> の機能を拡張したアプリケーションになります。</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_146.gif" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/lloyd_relax_tessler/"><i class="icon-info-sign"></i>lloyd_relax_tessler
-</a>
-        <p class="lead">A modified version of <a href="https://barionleg.github.io/lloyd_relax_tessler/">lloyd_relax_tessler
-</a><strong> Rendered in svg and canvas</strong>.</p>
+        <img class="featurette-image pull-right" src="img/froide_147.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://github.com/aibolem/masked_face_recognition"><i class="icon-info-sign"></i>MFR</a>
+<p class="lead"><a href="https://github.com/aibolem/masked_face_recognition">Masked Facial Recognition</a><strong> </strong>.</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
