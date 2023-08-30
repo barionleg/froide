@@ -4,16 +4,15 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_152.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/pyRaman/pyRaman_Simple_Tutorial.html"></i>pyRaman</a></p>
-<p class="lead">программная библиотека для <a href="https://barionleg.github.io/pyRaman/pyRaman_Simple_Tutorial.html">pyRaman</a><strong> рамановской</strong> визуализации.</p>
+                <img class="featurette-image pull-left" src="img/froide_154.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/generative/ellipse/index.html"></i>generative ART</a></p><p class="lead">Experiments with <a href="https://barionleg.github.io/generative/ellipse/index.html">generative ART</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_153.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://codepen.io/barionleg/full/YzdqGNV"><i class="icon-info-sign"></i>Interactive Particles</a>
-<p class="lead"><a href="https://codepen.io/barionleg/full/YzdqGNV">Interactive Particles</a> on <strong>bARIONLeg CODEPEN</strong></p>
+        <img class="featurette-image pull-right" src="img/froide_155.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/Canvas_Pixel_Image/"><i class="icon-info-sign"></i>Canvas Pixel Image</a>
+<p class="lead"><a href="https://aibolem.github.io/Canvas_Pixel_Image/">Canvas Pixel mage</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
