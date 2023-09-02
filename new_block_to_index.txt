@@ -4,16 +4,16 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_165.gif" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://pub.dev/packages/drawing_animation"></i>drawing svg animation</a></p>
-<p class="lead">A Flutter library for gradually painting <a href="https://github.com/barionleg/drawing_animation">SVG path </a><strong>objects on canvas</strong> (drawing line animation).</p>
+                <img class="featurette-image pull-left" src="img/froide_167.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/understand-svg-arcs/"></i>SVG elliptical arcs</a></p>
+<p class="lead"><a href="https://barionleg.github.io/understand-svg-arcs/">SVG elliptical arcs </a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featuretttps://barionleg.github.io/svg-path-editor/e-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_166.gif" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" https://barionleg.github.io/mz-svg/docs/index.html"></i>mzSVG</a>
-<p class="lead"><a href="https://barionleg.github.io/mz-svg/docs/index.html">mzSVG </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_168.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/axidraw-web/"></i>AxiDraw Web</a>
+<p class="lead"><a href="https://barionleg.github.io/axidraw-web/">AxiDraw Web</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
