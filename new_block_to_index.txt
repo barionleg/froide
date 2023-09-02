@@ -4,16 +4,16 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_161.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://aibolem.github.io/svgedit/dist/editor/index.html"></i>svgedit</a></p>
-<p class="lead"><a href="https://aibolem.github.io/svgedit/dist/editor/index.html">svgedit</a><strong></strong></p>
+                <img class="featurette-image pull-left" src="img/froide_163.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/react-minimal-pie-chart/?path=/story/pie-chart--full-option"></i>SVG pie/donut charts for React</a></p>
+<p class="lead"><a href="https://barionleg.github.io/react-minimal-pie-chart/?path=/story/pie-chart--full-option">SVG pie/donut charts for React</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featuretttps://barionleg.github.io/svg-path-editor/e-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_162.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://roughjs.com/"><i class="icon-info-sign"></i>Rough.js</a>
-<p class="lead"><a href="https://github.com/barionleg/rough">Rough.js </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_164.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://svgco.de/"><i class="icon-info-sign"></i>SVGcode</a>
+<p class="lead"><a href="https://github.com/aibolem/SVGcode"> SVGcode </a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
