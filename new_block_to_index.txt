@@ -4,8 +4,8 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_173.gif" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/pythagoras-demo/"></i>Mouse Trophoblast smallRNAseq analyses</a></p>
+                <img class="featurette-image pull-left" src="img/froide_173.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/pythagoras-demo/"></i>Pythagorean Theorem</a></p>
 <p class="lead">Interactive demo of the <a href="https://barionleg.github.io/pythagoras-demo/">Pythagorean Theorem </a> in Processing. <strong>Influence on Fetal Brain Development</strong></p>
       </div>
       <hr class="featurette-divider">
