@@ -1,19 +1,19 @@
-block with button
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000block with button
 
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurette-image pull-left" src="img/froide_175.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://aibolem.github.io/SemanticDictionary_austereich/"></i>SemanticDictionary_Austereich</a></p>
-<p class="lead">very wiki en©Yclop ₽ediatre$ <a href="https://github.com/aibolem/SemanticDictionary_austereich/wiki">SemanticDictionary_Austereich </a> <strong>$ume℞ul </strong></p>
+                <img class="featurett-image pull-left" src="img/froide_177.gif" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/sunburst-radar-chart-workspace/koef/index.html"></i>$umerul _ коефициенты шшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшшеwwwwwww шумерскйх шевронов, привидут ли мой воспаминания к настоящийм звёздным вратам STARgÅTE$ ИЛИЖЕК вАРgтехнолоф? новое восприятие от Aubergine до материи ФизикА©hemiЭ€ язык </a></p>
+<p class="lead">very wiki en©Yclop ₽ediatre$ <a href="https://barionleg.github.io/sunburst-radar-chart-workspace/koef/index.html">$umerul _ коефициенты </a> <strong>$ume℞ul </strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_176.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://aibolem.github.io/MULTITOOL/"></i>MULTITOOL</a>
-<p class="lead"> <a href="https://aibolem.github.io/MULTITOOL/">MULTITOOL</a>  <strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_178.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/chinese-ime_austereich/src/main/webapp/index.html"></i>Akkadian Input Method</a>
+<p class="lead"> <a href="https://github.com/barionleg/chinese-ime_austereich/wiki">Akkadian Input Method</a> and  <strong>mm.</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
