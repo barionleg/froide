@@ -19,15 +19,15 @@ block with button
  <hr id="features" class="featurette-divider">
       <div class="featurette">
                 <img class="featurett-image pull-left" src="img/froide_bprolaroid.gif" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/dbrein/ruthenium/index.html"></i>no comments</a></p>
-<p class="lead"><a href="https://aibolem.github.io/dbrein/ruthenium/index.html">no comments </a><strong>bara vid mötte!</strong></p>
+  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/dbrein/bpolaroid/index.html"></i>no comments</a></p>
+<p class="lead"><a href="https://aibolem.github.io/dbrein/bpolaroid/index.html">no comments </a><strong>bara vid mötte!</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
         <img class="featurette-image pull-right" src="img/froide_inter.gif" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://aibolem.github.io/dbrein/musica/index.html"></i>бинтернет пучок в d'brÄin</a>
-<p class="lead"><a href="https://aibolem.github.io/dbrein/musica/index.html">internet вunch in d'brÄin </a><strong></strong></p>
+<p><a class="btn btn-medium" href="https://aibolem.github.io/dbrein/cola/index.html"></i>бинтернет пучок в d'brÄin</a>
+<p class="lead"><a href="https://aibolem.github.io/dbrein/cola/index.html">internet вunch in d'brÄin </a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
