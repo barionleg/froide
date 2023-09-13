@@ -4,16 +4,16 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_179.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/sunburst-radar-chart-workspace/wordelengsf/wordlengs_frequency.html"></i>Длины и частоты слов</a></p>
-<p class="lead"><a href="https://barionleg.github.io/sunburst-radar-chart-workspace/wordelengsf/wordlengs_frequency.html">Длины и частоты слов </a> <strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide-cola2.gif" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/dbrein/trocadera_barrel/indnext7.html"></i>TRÄCÅDERÅ Д'вÅ₽gЭЛЬ</a></p>
+<p class="lead">Трокадеро Д'варгЭЛь. even Sumerul so well novadays scrift have one background: ДвАРgинатоwords<a href="https://aibolem.github.io/dbrein/trocadera_barrel/indnext7.html">TRÄCÅDERÅ Д'вÅРgЭЛЬ</a> not only TRANSLIT & KIRYLIC symbols play roles, but <strong>heracloglifes</strong> of them! intresseanmellan via mötte! </p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_180.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/sunburst-radar-chart-workspace/ckerodena/index.html"></i>Sunburst Scheme</a>
-<p class="lead"><a href="https://barionleg.github.io/sunburst-radar-chart-workspace/ckerodena/index.html">Sunburst Scheme</a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_paris_argo.gif" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/dbrein/paris/index.html"></i>PARIS_&_DВ_ARgØ</a>
+<p class="lead"><a href="https://aibolem.github.io/dbrein/paris/index.html">PARIS d&b'ÅRgØ</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
