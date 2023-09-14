@@ -3,6 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+             p {
+  line-height: 1em;
+}
 #loading{
   height: 100vh;
   width: 100%;
@@ -23,7 +26,7 @@
 }
 .fa-user, .fa-envelope, .fa-phone-alt{
   margin-top: 10px;
-  font-size: 15px;
+  font-size: 10px;
   color: #fff;
 }
 input{
@@ -80,7 +83,7 @@ html{
 
 .section-1 #particles-js .heading p {
   font-weight: 300;
-  font-size: 27px;
+  font-size: 17px;
   color: #fff;
 }
 .section-1, .section-2, .section-3, .section-4{
