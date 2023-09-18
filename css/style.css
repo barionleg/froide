@@ -13,6 +13,11 @@
 
     /* CUSTOMIZE THE NAVBAR
     -------------------------------------------------- */
+navbar  {
+    margin: 0;
+    padding: 0;
+    background: url(https://cdn.discordapp.com/attachments/985822288765132851/985841651765358613/production_ID_4763824_2.mp4) no-repeat center center/cover;
+  }
 
     /* Special class on .container surrounding .navbar, used for positioning it into place. */
     .navbar-wrapper {
@@ -49,11 +54,7 @@ left:0;
   width:100%;
  
 }
-navbar  {
-    margin: 0;
-    padding: 0;
-    background: url(https://cdn.discordapp.com/attachments/985822288765132851/985841651765358613/production_ID_4763824_2.mp4) no-repeat center center/cover;
-  }
+
 
 
     /* CUSTOMIZE THE CAROUSEL
