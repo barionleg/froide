@@ -1,13 +1,7 @@
     /* CUSTOMIZE THE NAVBAR
     -------------------------------------------------- */
     /* Special class on .container surrounding .navbar, used for positioning it into place. */
-    .navigation{
-  padding-top:30px;
-  padding-bottom:20px;
-  position:absolute;
-   top:0;
-  width:100%;
-  z-index:-1;
+
         
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
     .navbar-wrapper {
