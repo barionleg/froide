@@ -9,23 +9,25 @@
   <meta name="p:domain_verify" content="7e7320d244a96866e0c0a18db4b7348b"/>
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-  <link href="css/video-navbar.css" rel="stylesheet">
-
-
-  
+ 
   <!-- HTML5 shim, new værsion  bA℞  for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
     <![endif]-->
   <!-- Fav and touch icons -->
-
-  
   <link rel="shortcut icon" href="img/favicon.png">
 </head>
 <body>
 <header>
-  <div class="header">
+  <nav class="header">
     <nav class="navigation">
+    
+    <div class="video-container">
+      <video autoplay loop muted id="video-bg">
+        <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+
+      </video>
+      </div>
       <a href="#" class="navbar-logo">fröIdè Barйonleg</a>
       <div class="navbar-right">
         <a href="#features">features</a>
@@ -33,15 +35,6 @@
                 <a href="https://github.com/barionleg/froide">$our©e</a>
       </div>
     </nav>
-
-    <div class="video-container">
-      <video autoplay loop muted id="video-bg">
-
-        <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
-
-      </video>
-    </div>
-  </div>
   <!-- Carousel
     ================================================== -->
   <div id="myCarousel" class="carousel slide">
