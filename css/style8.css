@@ -6,7 +6,7 @@
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
     .navbar-wrapper {
       position: absolute;
-      opacity: .6;  
+      opacity: .9;  
       top: 0;
       left: 0;
       right: 0;
