@@ -5,7 +5,7 @@
   padding-top:30px;
   padding-bottom:20px;
   position:absolute;
-  opiacy:.7;  /** Change value according to you transperncy**/    
+  opacity: .9;    /** Change value according to you transperncy**/    
   top:0;
   width:100%;
   z-index:1;
