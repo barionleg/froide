@@ -8,11 +8,48 @@
   right:0;
   z-index:-11;
 }  -------------------------------------------------- */
+
+.navigation{
+  padding-top:30px;
+  padding-bottom:30px;
+  position:absolute;
+  top:0;
+  width:80%;
+  z-index:-11;
+}
+
+.navbar-right{
+  float:right;
+  padding-right:40%;
+}
+
+.navbar-right a{
+  text-decoration:none;
+  padding:40px;
+  color: #fff;
+  font-family:Arial;
+  font-weight:900;
+}
+
+.navbar-right a:hover{
+  text-decoration:underline;
+}
+.navbar-logo{
+  padding-left:5%;
+  font-family:Arial;
+  font-size:30px;
+  font-weight:bold;
+  text-decoration:none;
+  color:#fff; 
+}
+
+
 .navbar  {
     margin: 0;
     padding: 0;
     background: url(http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4) no-repeat center center/cover;
   }
+
 .video-bg{
   width:100%;
  
