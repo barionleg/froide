@@ -14,8 +14,8 @@
   padding-bottom:30px;
   position:absolute;
   top:0;
-  width:80%;
-  z-index:-11;
+  width:50%;
+  z-index:-110;
 }
 
 .navbar-right{
@@ -55,7 +55,7 @@
  
 }
 .video-container {
-z-index: -11;
+z-index: -110;
 width:100%;
 height:175%;
 overflow:hidden;
