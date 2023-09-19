@@ -14,7 +14,8 @@
   top:0;
   width:100%;
   z-index:1;
-  background-color: rgba(0,0,0,0.2); /** Change value according to you transperncy**/
+  background-color: rgba(0,0,0,0.2);
+/** Change value according to you transperncy**/
 }
 
 .navbar-right{
@@ -26,7 +27,7 @@
   text-decoration:none;
   padding:10px;
   color: #fff;
-  font-family:Arial;
+  font-family:Helvetica;
   font-weight:900;
 }
 
@@ -92,12 +93,12 @@ font-family:Helvetica;
  margin-top:9%;
  text-align:center;
  margin-left:11%;
-font-family:Arial;
+font-family:Helvetica;
  color:#fff;
   width:375px;
   font-size:40px;
 }
 a{
-  text-decoration: none  !important;
+  text-decoration: none;
   
 }
