@@ -1,5 +1,5 @@
        /* CUSTOMIZE THE NAVBAR
-    -------------------------------------------------- */
+    
 .overlay {
   position:absolute;
   top:0;
@@ -7,7 +7,7 @@
   left:0;
   right:0;
   z-index:-11;
-}
+}  -------------------------------------------------- */
 .navbar  {
     margin: 0;
     padding: 0;
