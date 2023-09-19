@@ -5,10 +5,22 @@
   padding-top:30px;
   padding-bottom:20px;
   position:absolute;
-  top:0;
+   top:0;
   width:100%;
-  z-index:1;
-      
+  z-index:-1;
+        
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+    .navbar-wrapper {
+      position: absolute;
+      opacity: .6;  
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      margin-top: 20px;
+      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+    }
+
 .navbar-right{
   float:right;
   padding-right:10%;
