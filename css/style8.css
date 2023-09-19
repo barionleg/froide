@@ -12,6 +12,14 @@
     /* CUSTOMIZE THE NAVBAR
     -------------------------------------------------- */
     /* Special class on .container surrounding .navbar, used for positioning it into place. */
+.header {
+  position: fixed;
+  top: 0;
+  left: 20;
+  z-index: 1;
+  margin: auto;
+  width: 90%;
+}
 
 .navigation{
   margin-top: 20px;
