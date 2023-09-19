@@ -19,22 +19,43 @@
 </head>
 <header>
 <body>
-  <style>
+    <style>
 
+    /* GLOBAL STYLES
+    -------------------------------------------------- */
+    /* Padding below the footer and lighter body text */
 
-  </style>
+    body {
+      padding-bottom: 40px;
+      color: #5a5a5a;
+    }
+      #header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  margin: auto;
+  width: 100%;
+}
 
-<header>
-  <div class="header">
-    <nav class="navigation">
-      <a href="#" class="navbar-logo">fröIdè Barйonleg</a>
-      <div class="navbar-right">
-        <a href="#features">features</a>
-        <a href="http://froide.readthedocs.org">Documentation</a>
-        <a href="https://github.com/barionleg/froide">$our©e</a>
-      </div>
-    </nav>
+    </style>
 
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="img/favicon.png">
+  </header>
+
+  <body>
+
+    <!-- NAVBAR
+    ================================================== -->
+    <div class="navbar-wrapper">
+      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+      <div class="container">
     <div class="video-container">
       <video autoplay loop muted id="video-bg">
 
@@ -42,10 +63,24 @@
 
       </video>
     </div>
-  </div>
-</header>
-</body>
-</html>
+        <div class="navbar">
+          <div class="navbar-inner">
+            
+            <a class="brand" href="#">Fröide Barionleg</a>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <div class="nav-collapse collapse">
+              <ul class="nav">
+                <li><a href="#features">Features</a></li>
+                <li><a href="http://froide.readthedocs.org">Documentation</a></li>
+                <li><a href="https://github.com/barionleg/froide">$our©e</a></li>
+              </ul>
+            </div><!--/.nav-collapse -->
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+
+      </div> <!-- /.container -->
+    </div><!-- /.navbar-wrapper -->
+    </nav>
   <!-- Carousel
     ================================================== -->
   <div id="myCarousel" class="carousel slide">
