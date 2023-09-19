@@ -5,12 +5,11 @@
   padding-top:30px;
   padding-bottom:20px;
   position:absolute;
-  opacity: .9;    /** Change value according to you transperncy**/    
+  background-color: rgba(0,0,0,0.2);    /** Change value according to you transperncy**/    
   top:0;
   width:100%;
   z-index:1;
-}
-
+        
 .navbar-right{
   float:right;
   padding-right:10%;
