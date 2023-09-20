@@ -23,4 +23,7 @@ different online video for background
 
 ₽ARI$ dbRhÄiN flödde and created composites of ©hemie in your own koo₽f ©hemicl€ fabric visualisation by Men'de'Lёвuз ₽ TbIi©$Å₽: https://github.com/aibolem/dbrein/tree/main/FrontEnd
 
-6700 ©omposites awaiting, so well 20 000 ©RYSTALLI© ©hemi€ cli A₽i'$
+6700 ©omposites awaiting, so well 20 000 ©RYSTALLI© ©hemi€ cli A₽i'$ if one of förlåvad repositörinna skulle tänka om folk eller sitt barbarn ... 
+
+
+IBAN ДBÅ₽gАКНИ REmember Register viljandinnor
