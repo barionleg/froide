@@ -1,3 +1,6 @@
+get bra nu: https://barionleg.github.io/froide/index10.html
+
+
 starwords intro for navigo https://github.com/barionleg/28x13/blob/main/readme10.md
 
 exemle: https://barionleg.github.io/28x13/index5.html  "with Betxis txa boseli" ou ØBA'₽ÅNThER витя.з https://github.com/aibolem/db  textes with translation https://aibolem.github.io/db/asia/mps/mps10.html TT$₽€©h = TExT_TO de ₽€©h arrives soon upp on your machine speech bot language, translate to that dialect and listen, keep eyes friskt!
