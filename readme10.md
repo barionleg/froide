@@ -2,7 +2,7 @@ starwords intro for navigo https://github.com/barionleg/28x13/blob/main/readme10
 
 exemle: https://barionleg.github.io/28x13/index5.html  "with Betxis txa boseli" ou ØBA'₽ÅNThER витя.з 
 
-for more starwords creator see anotation_images.txt
+for more starwords creator see anotation_image_map.txt of starwords galaxy for navigo
 
 
 https://codepen.io/casuru/pen/RPMyyp
