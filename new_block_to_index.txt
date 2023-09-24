@@ -5,15 +5,15 @@ block with button
  <hr id="features" class="featurette-divider">
       <div class="featurette">
                 <img class="featurett-image pull-left" src="img/froide_181.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/dbrein/geo/index.html"></i>ge©blÅgo</a></p>
-<p class="lead"><a href="https://aibolem.github.io/dbrein/geo/index.html">ge©blÅgo</a><strong></strong></p>
+  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/KeplerScienceWebsite/k2-fields.html"></i>Kepler</a></p>
+<p class="lead">This is the development version of the Kepler/K2 science website. For the live website, visit: <a href="https://keplerscience.arc.nasa.gov"> Kepler </a><strong>webb</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
         <img class="featurette-image pull-right" src="img/froide_182.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://aibolem.github.io/dbrein/bepela/index.html"></i>bepela</a>
-<p class="lead"><a href="https://aibolem.github.io/dbrein/bepela/index.html">bepela </a><strong></strong></p>
+<p><a class="btn btn-medium" href="https://barionleg.github.io/starwars-intro/public/index.html"></i>STARWORSINTRO</a>
+<p class="lead">Star Wars film intro animation developed in HTML, CSS, JavaScript and Node.js <a href="https://barionleg.github.io/starwars-intro/public/index.html">STARWORSINTRO </a><strong></strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
