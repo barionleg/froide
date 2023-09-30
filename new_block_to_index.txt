@@ -5,16 +5,16 @@ block with button
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_234.gif" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://github.com/ibanknatoPrad/Learning-to-play-the-Piano-with-a-Python-Bot"></i>Э€₽iANO PLAYNg d'bотт</a></p>
-<p class="lead"><a href="https://www.youtube.com/watch?v=NDVJ9Sw2ylI">Learning ₽yтноп Д'bотт to play the PiANO</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_235.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://www.aurorawatch.ca/"></i>Aurora Forecast</a></p>
+<p class="lead"><a href="https://www.aurorawatch.ca/content/view/81/99999"> Subscribe to AuroraWatch Alerts! </a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_235.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://aibolem.github.io/VirtualPB8iano/"></i>Virtual PiANO</a>
-<p class="lead"><a href="https://aibolem.github.io/VirtualPB8iano/">вuртуаЛЬ ₽ÅЯЛЬ</a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_236.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/MIDIAno_nc/"></i>MIDI_Player</a>
+<p class="lead"> A JavaScript <a href="https://aibolem.github.io/MIDIAno_nc/"> MIDI_Player </a><strong> / Piano-learning webbA₽p </strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
