@@ -7,6 +7,6 @@
     return true;
 }</script>
 
-<a href="link" onclick="return loadIframe('ifrm', this.href)">whasjjjf</a>
-    <iframe name="ifrm" id="ifrm" src="https://barionleg.github.io/death-star/public/index.html" frameborder="0">
+<a href="https://barionleg.github.io/death-star/public/index.html" onclick="return loadIframe('frame1', this.href)">swi</a>
+    <iframe name="frame1" id="firster" src="https://barionleg.github.io/death-star/public/index.html" frameborder="0">
     Your browser doesn't support iframes.</iframe>
