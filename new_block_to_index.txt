@@ -1,5 +1,9 @@
 block with button
 
+      </div>
+      <hr class="featurette-divider">
+ <hr id="features" class="featurete-divider">
+      <div class="featurette">
                 <img class="featurett-image pull-left" src="img/froide_234.gif" alt="frÖIdᴱ℞Bærჼlin">
   <p><a class="btn btn-medium" hreef="https://www.asterank.com/"></i>ASTERRANK</a></p>
 <p class="lead"><a href="https://github.com/barionleg/asterank"> barionleg ASTERRANK</a><strong></strong></p>
