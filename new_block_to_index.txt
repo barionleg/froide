@@ -1,204 +1,186 @@
 block with button
 
-          </div>
-                  <hr class="featurette-divider">
- <hr id="features" class="featurette-divider">
-      <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_181.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/KeplerScienceWebsite/k2-fields.html"></i>Kepler</a></p>
-<p class="lead">This is the development version of the Kepler/K2 science website. For the live website, visit: <a href="https://keplerscience.arc.nasa.gov"> Kepler </a><strong>webb</strong></p>
+                <img class="featurett-image pull-left" src="img/froide_234.gif" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://www.asterank.com/"></i>ASTERRANK</a></p>
+<p class="lead"><a href="https://github.com/barionleg/asterank"> barionleg ASTERRANK</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_182.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/starwars-intro/public/index.html"></i>STARWORSINTRO</a>
-<p class="lead">Star Wars film intro animation developed in HTML, CSS, JavaScript and Node.js <a href="https://barionleg.github.io/starwars-intro/public/index.html">STARWORSINTRO </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_209.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/star-wars-slider/"></i>star-wars-slider</a>
+<p class="lead"><a href="https://barionleg.github.io/star-wars-slider/">star-wars-slider</a><strong></strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
-      <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_183.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/StrangerThingsIntroCreator/"></i>Stranger Things Intro Creator</a></p>
-<p class="lead">Stranger Things Intro Creator<a href="https://barionleg.github.io/StrangerThingsIntroCreator/"></a><strong></strong></p>
+      <div class="featurette">		  
+                <img class="featurett-image pull-left" src="img/froide_210.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/projeto-starwars/"></i>STARWÅRg$</a></p>
+<p class="lead"><a href="https://barionleg.github.io/projeto-starwars/"> STAR вÅRd€© </a><strong>proje©t°®©</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_184.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/disney-plus-star-wars/"></i>Star Wars blog template</a>
-<p class="lead">Disney Plus - Star Wars blog template
-<a href="https://barionleg.github.io/disney-plus-star-wars/">bepela </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_211.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/cu_te_star_Bargc/"></i>SW characters</a>
+<p class="lead"><a href="https://barionleg.github.io/cu_te_star_Bargc/">STARWORS characters </a>for <strong>tჸe ©hildreჼ'</strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_185.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/star-wars/src/index.html"></i>Fansite of the Star Wars films</a></p>
-<p class="lead">Fansite of the Star Wars films<a href="https://barionleg.github.io/star-wars/src/index.html">ge©blÅgo</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_212.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/wikistar/"></i>wikistar</a></p>
+<p class="lead"> uma pequena wiki que mostra alguns dados sobre <a href="https://barionleg.github.io/wikistar/">WikiStar</a><strong> StarWars </strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_186.png" alt="frÖIdᴱ℞Bærჼlin">
-          <p><a class="btn btn-medium" href="https://barionleg.github.io/starwars/"></i>RSWOC</a>
-<p class="lead">A random Star Wars opening crawl.<a href="https://barionleg.github.io/starwars/">bepela </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_213.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/collegeCosts/"></i>collegeCosts</a>
+<p class="lead"> ancien worlds<a href="https://aibolem.github.io/collegeCosts/"> collegeCosts </a>by <strong>anciჼ boymler</strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_187.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/tracery/tests.html"></i>Tracery</a></p>
-<p class="lead"><a href="https://aibolem.github.io/tracery/tests.html">Tracery</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_214.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/dotty/"></i>dotty</a></p>
+<p class="lead"><a href="https://barionleg.github.io/dotty/"> dotty</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_188.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Star-Wars-Characters/Star%20Wars/index.html"></i>star wars characters</a>
-<p class="lead">search any star wars <a href="https://barionleg.github.io/Star-Wars-Characters/Star%20Wars/index.html">bepela character</a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_215.png" alt="frÖIdᴱ℞Bærჼlin">
+          <p><a class="btn btn-medium" href="https://web.mit.edu/music21/"></i>music21</a>
+<p class="lead">music21 is a Toolkit for <a href="https://github.com/aibolem/music21">Computational Musicology </a><strong></strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_189.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/GalaxyViewer/"></i>galaxy map SW</a></p>
-<p class="lead">galaxy <a href="https://github.com/aibolem/asteroyd_allarvvm_barionleg_ital_Y/wiki/STARW%C3%85Rg'$-galaxy-map-similar,-by-my-grandparants">map star BÅ₽g$</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_216.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/kepler-dashboard/html/index.html"></i>©Keplers dashboard</a></p>
+<p class="lead"><a href="https://barionleg.github.io/kepler-dashboard/html/index.html"> ©Keplers dashboard</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_190.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/star-wars-d6-gzv/star-wars-d6-gzv.html"></i>Character Sheet SW</a>
-<p class="lead">Roll20 Character Sheet for Star Wars D6 GZV<a href="https://barionleg.github.io/star-wars-d6-gzv/star-wars-d6-gzv.html">bepela </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_217.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/instructions/"></i>NASA'S PUBLIC</a>
+<p class="lead">NASA'S PUBLIC <a href="https://barionleg.github.io/instructions/">on github bA℞ionlegit ...</a><strong></strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_191.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/aotor-wikijs/Calendar.html"></i>AO Rim Wiki</a></p>
-<p class="lead">Auditors of the Outer Rim Wiki<a href="https://barionleg.github.io/aotor-wikijs/Calendar.html"></a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_218.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/k2c9-visibility-app/k2c9app/static/index.html"></i>k2c9-visibility-app</a></p>
+<p class="lead">Введите координаты неба ниже, чтобы проверить, попадает <a href="https://aibolem.github.io/k2c9-visibility-app/k2c9app/static/index.html"> ли она в область микролинзирования кампании K2c9</a> Enter a sky coordinate below to check if it falls inside the <strong>K2 Campaign 9 microlensing region.</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_192.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/star-wars-text-analysis/StarWarDialogueAnalysis.html"></i>text analysis SW</a>
-<p class="lead">A text analysis project on collection of script dialogue between characters for the episode 4,5,6 of <a href="https://barionleg.github.io/star-wars-text-analysis/StarWarDialogueAnalysis.html">star wars </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_219.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/notebooks/index.html"></i>STScI Notebooks</a>
+<p class="lead">Looking for Space Telescope Notebooks? See the new <a href="https://github.com/aibolem/notebooks/wiki/ffi">STScI Notebooks </a><strong> нomepage</strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_193.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://eyes.nasa.gov/curiosity/"></i>Curiosity</a></p>
-<p class="lead"><a href="https://eyes.nasa.gov/curiosity/">Curiosity</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_220.gif" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/k2flix/"></i>©'KE₽£€ЯR data visualizer</a></p>
+<p class="lead"> ©reate beautiful quicklook movies from <a href="https://aibolem.github.io/k2flix/">tჸe pixel data observed</a> by<strong>NASA's Kepler/K2/TESS₾ი spacecraft.</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_194.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/dbapioneerY/index.html#/uranus/moons/miranda"></i>dbapioneerY</a>
-<p class="lead"><a href="https://aibolem.github.io/dbrein/bepela/index.html">dbapioneerY </a><strong>Miranda </strong> probably shield theory. strax </p>
+        <img class="featurette-image pull-right" src="img/froide_221.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://tessgi.github.io/TessGiWebsite/approved-programs.html"></i>TESS₾iWebsite A₽provedb₽ro'grams</a>
+<p class="lead"><a href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py/">Web Tool </a><strong></strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_195.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/svgedit/dist/editor/index.html"></i>SVg EdiT</a></p>
-<p class="lead"><a href="https://aibolem.github.io/svgedit/dist/editor/index.html">SVg EdiT</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_222.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/TessGiWebsite/"></i>T'Æ©'$ Лი шки</a></p>
+<p class="lead"><a href="https://github.com/aibolem/TessGiWebsite/wiki">TÆ©$₾iWebsite/wiki</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_196.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/StarWarsSoundEffects/"></i>SW Sound Effects</a>
-<p class="lead">Binding Key codes to audio. <a href="https://barionleg.github.io/StarWarsSoundEffects/">SW Sound Effects </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_223.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://github.com/barionleg/eartHdatasearch"></i>eartHdatasearch</a>
+<p class="lead">sear©h <a href="https://search.earthdata.nasa.gov/search">NASA </a><strong> нАША Д'вÅYS</strong>  </p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_197.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/death-star/public/index.html"></i>SW day app</a></p>
-<p class="lead">A Star Wars  <a href="https://barionleg.github.io/death-star/public/index.html">day app</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_224.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/ExoplanetMinder/prototypes/prototype1/index.html"></i>exo₽lanetMinder</a></p>
+<p class="lead"> by each click on <a href="https://barionleg.github.io/ExoplanetMinder/production/index.html"> exo₽lanetMinder</a> peage <strong> inciased quantity of e.₽. & arrived light / maindes [©Å] ©€LLULAR ÅUTOMATA$</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_198.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/hackathon-starlove/src/main/resources/static/index.html"></i>SW Charachters</a>
-<p class="lead">searching characters from a Star Wars <a href="https://barionleg.github.io/hackathon-starlove/src/main/resources/static/index.html">database according to specific criteria </a><strong>need work on to fix it </strong></p>
+        <img class="featurette-image pull-right" src="img/froide_225.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/dbrein/mzSVg/mzSVg.html"></i>JS PARTI©LES</a>
+<p class="lead"><a href="https://aibolem.github.io/dbrein/mzSVg/mzSVg.html"> dancing leaves </a><strong></strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_199.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/dbrein/geo/index.html"></i>ge©blÅgo</a></p>
-<p class="lead"><a href="https://aibolem.github.io/dbrein/geo/index.html">ge©blÅgo</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_226.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/ES-1920-microsite/index.html"></i>microsite</a></p>
+<p class="lead"><a href="https://barionleg.github.io/ES-1920-microsite/index.html"> microsite</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_200.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://aibolem.github.io/vtracer/docs/index.html"></i>SVg converter</a>
-<p class="lead"><a href="https://www.visioncortex.org/vtracer-docs">docs </a><strong>of SVg converter</strong></p>
+        <img class="featurette-image pull-right" src="img/froide_227.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/uztesiet_dissaert_Austereich_public_webb/bgb/bgb.html"></i>BGB version 1.5.9</a>
+<p class="lead"> disclaimer: no warranty of any kind, use at your own risk.  
+<a href="https://aibolem.github.io/uztesiet_dissaert_Austereich_public_webb/bgb/bgb.html">gameboy color emulator/debugger </a>for win32 <strong> probably need work on to fix it... </strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_201.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/Method-Draw/src/index.html"></i>ge©blÅgo</a></p>
-<p class="lead">Method Draw, the <a href="https://aibolem.github.io/Method-Draw/src/index.html">SVG Editor </a><strong>for Method of Action</strong></p>
+                <img class="featurett-image pull-left" src="img/froide_228.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://www.texstudio.org/"></i>TexStudio.®g</a></p>
+<p class="lead"><a href="https://github.com/aibolem/texstudio/releases/tag/4.6.3"> TexStudio oRd = ©Лöв'ø [®g д₽ო] releases</a> on <strong>github AбоЛиm МЕЛОДИЯ®ლი</strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_202.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/exocat/exocat/exocat.html"></i>€xo₽lanet$ ©ATA£OgµE</a>
-<p class="lead">The WFC3/IR <a href="https://barionleg.github.io/exocat/exocat/exocat.html">Exoplanet Catalog </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_229.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://github.com/ibanknatoPrad/iCAMusic"></i>CelularAutomatA</a>
+<p class="lead"> Music generator based on<a href="https://github.com/ibanknatoPrad/iCAMusic"> cellular automata </a>for <strong>proffessionals of </strong>©OMPÅ$итÅ℞ dbunioჼ sien©e 1932, mm</p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_203.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/spacekit/"></i>SPACEKIT</a></p>
-<p class="lead"><a href="https://aibolem.github.io/spacekit/examples/">EXEMPLES</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_230.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://aibolem.github.io/spacekit/"></i>spacekit</a></p>
+<p class="lead"> Exemples of <a href="https://aibolem.github.io/spacekit/examples/">planets & spacebodys </a> in <strong>different scenario & epoques </strong> by real time attached traeqtorys driven by Julian CÅlendвarg CATALOgque</p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_204.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://codepen.io/barionleg/full/xxmYxVP"></i>Pixels to SVg</a>
-<p class="lead"><a href="https://codepen.io/barionleg/full/xxmYxVP">Pixels to SVg </a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_231.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/owmidiconverter/converter.html"></i>midi converter</a>
+<p class="lead"><a href="https://barionleg.github.io/owmidiconverter/converter.html">midi converter </a>for <strong>game boy</strong></p>
           </div>
                   <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_205.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://barionleg.github.io/svgomg/"></i>svgo</a></p>
-<p class="lead">web gui for <a href="https://barionleg.github.io/svgomg/">svgo</a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_232.gif" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" hreef="https://github.com/ibanknatoPrad/Learning-to-play-the-Piano-with-a-Python-Bot"></i>Э€₽iANO PLAYNg d'bотт</a></p>
+<p class="lead"><a href="https://www.youtube.com/watch?v=NDVJ9Sw2ylI">Learning ₽yтноп Д'bотт to play the PiANO</a><strong></strong></p>
       </div>
       <hr class="featurette-divider">
  <hr id="features" class="featurete-divider">
       <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_206.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/api-docs"></i>NASA APi docs</a>
-<p class="lead"><a href="https://api.nasa.gov/#browseAPI">Browse APi</a><strong></strong></p>
+        <img class="featurette-image pull-right" src="img/froide_233.png" alt="frÖIdᴱ℞Bærჼlin">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/VirtualPB8iano/"></i>Virtual PiANO</a>
+<p class="lead"><a href="https://aibolem.github.io/VirtualPB8iano/">вuртуаЛЬ ₽ÅЯЛЬ</a><strong></strong></p>
           </div>
                   <hr class="featurette-divider">
- <hr id="features" class="featurette-divider">
-      <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_207.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" hreef="https://beamish-halva-325eb8.netlify.app"></i>asteroyd allarvvm</a></p>
-<p class="lead">aibolem <a href="https://beamish-halva-325eb8.netlify.app">asteroyd allarvvm  </a><strong>barionleg ital Y</strong></p>
-      </div>
-      <hr class="featurette-divider">
- <hr id="features" class="featurete-divider">
-      <div class="featurette">
-        <img class="featurette-image pull-right" src="img/froide_208.png" alt="frÖIdᴱ℞Bærჼlin">
-<p><a class="btn btn-medium" href="https://aibolem.github.io/spacekit/examples/asteroid_shape_from_earth/index.html"></i>asteroid shape from earth </a>
-<p class="lead"><a href="https://aibolem.github.io/spacekit/examples/asteroid_shape_from_earth/index.html">asteroid shape from earth  </a><strong></strong></p>
-      </div>
-      <hr class="featurette-divider">
  <hr id="features" class="featurette-divider">
       <div class="featurette">
 
