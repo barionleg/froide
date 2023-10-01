@@ -157,7 +157,7 @@ body {
 
 /* Set the font, lean the board, position it */
 #board {
-  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  font-family: 'News Cycle', sans-serif;
   color: #FFFF82;     
   transform: perspective(300px) rotateX(25deg);
   transform-origin: 50% 100%;
