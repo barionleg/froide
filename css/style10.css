@@ -106,7 +106,7 @@ body {
     font-size: 300%;
     height: 70em;
     width: 20em;
-    opacity: 0;
+    opacity: .9;
 }
 
 @keyframes intro {
