@@ -85,20 +85,19 @@ left:0;
 
 body {
   margin: 0;
-  background-color: rgba(0,0,0,.7);
 }
 
 .star {
   position: absolute;
   width: 2px;
   height: 2px;
-  background-color: white;
+  background-color: black;
 }
 
 /* Set the animation, color, size and hide the text */
 .intro {
     position: absolute;
-    top: 5%;
+    top: 10%;
     left: 35%;
     z-index: 1;
     animation: intro 6s ease-out 1s;
