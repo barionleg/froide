@@ -80,138 +80,153 @@
      <hr id="features" class="featurete-divider">
         <div class="featurette">
 <img class="featurette-image pull-right" src="img/froide_259.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<p><a class="btn btn-medium" href="http://kepler.gl/"></i> kepler.gl </a>
+<p class="lead"> <a href="https://github.com/barionleg/kepler.gl"> kepler.gl </a><strong> repository </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_260.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://alexgyver.ru/gyverrgb/"></i> *** </a></p>
+<p class="lead">Simplest way to create your own font with <a href="https://github.com/barionleg/YBaerrgb"> Adobe Illustrator </a><strong>& FontForge 🔤</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_261.png" alt="">
+<p><a class="btn btn-medium" href="https://medium.com/@kyle_94343/3d-game-engines-b7ab65e58da"></i> 3D WORLD </a>
+<p class="lead"> Physics simulation, Universe mm <a href="https://github.com/barionleg/3DBWorld_bigowdbE"> 3D WORLD </a><strong> repository </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_261_2.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/glm/doc/api/modules.html"></i> OpenGL Mathematics Modules</a></p>
+<p class="lead"><a href="https://github.com/barionleg/glm"> OpenGL Mathematics </a><strong> for 3d World</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_261_3.png" alt="">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/othello/manuel/index.html"></i> othello </a>
+<p class="lead"> <a href="https://github.com/barionleg/othello/releases/tag/1.0"> othello.exe </a><strong> game release</strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_262.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/geovwfront/"></i> geovwfront </a></p>
+<p class="lead"><a href="https://github.com/barionleg/geovwfront"> geovwfront </a><strong> repository</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_263.png" alt="">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/geovwfront/potree-applet/potree.html"></i> Potree </a>
+<p class="lead">Potree is a viewer for large point cloud <a href="https://github.com/aibolem/potree"> Potree LIDAR data sets, </a><strong> developed at the ℞ViennA8 Buniвærsity of Technology, ©$ollar ©$ystem  Roß128b planet ßeta. </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_264.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/portfolio-website/build/index.html#works"></i> portfolio-website </a></p>
+<p class="lead"><a href="https://github.com/barionleg/portfolio-website"> portfolio-website exemle </a><strong></strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_265.png" alt="">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/wavefunctioncollapse/"></i> wavefunctioncollapse </a>
+<p class="lead"> <a href="https://github.com/barionleg/wavefunctioncollapse"> wavefunctioncollapse </a><strong> </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_266.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/UrbanHorizon/SVF.html"></i> UrbanHorizon </a></p>
+<p class="lead"><a href="https://github.com/barionleg/UrbanHorizon"> UrbanHorizon </a><strong></strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_267.png" alt="">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/IntroToComputerGraphics-CityGenerator/"></i> CityGenerator </a>
+<p class="lead"> Intro To Computer Graphics <a href="https://github.com/barionleg/IntroToComputerGraphics-CityGenerator"> CityGenerator </a><strong> </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_268.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/Eigengrau-s-Essential-Establishment-Generator"></i> WS generator </a></p>
+<p class="lead"><a href="https://github.com/barionleg/Eigengrau-s-Essential-Establishment-Generator"> willige & scenario generator </a><strong></strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_269.png" alt="">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/isocity/"></i> isocity </a>
+<p class="lead"> <a href="https://github.com/barionleg/isocity"> isocity </a><strong> </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_270.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://client.starpeace.io/"></i> starpeace </a></p>
+<p class="lead"><a href="https://github.com/barionleg/starpeace-client-website"> starpeace-client-website </a><strong> repository</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_271.png" alt="">
+<p><a class="btn btn-medium" href="http://www.catacombae.org/dmgextractor/"></i> dmgextractor </a>
+<p class="lead"> <a href="https://github.com/barionleg/dmgextractor"> dmgextractor </a><strong> </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_272.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://aibolem.github.io/math/class-Brick.Math.BigNumber.html"></i> BigNumber </a></p>
+<p class="lead"><a href="https://github.com/aibolem/math"> BigNumber Class </a><strong> do©</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_273.png" alt="">
+<p><a class="btn btn-medium" href="hhttps://streetmix.net/-/2311993"></i> streetmix </a>
+<p class="lead"> <a href="https://barionleg.github.io/starettemix/public/pages/whats-new/index.html"> starettemix whats-new </a><strong> </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_274.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://www.generation-city.com/monde/"></i> monde gc </a></p>
+<p class="lead"><a href="https://github.com/aibolem/mondegc"> monde gc </a><strong></strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_275.png" alt="">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/dat.gui/example.html"></i> dat.gui.js </a>
+<p class="lead"> <a href="https://github.com/barionleg/dat.gui"> dat.gui.js </a><strong> </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
+                <img class="featurett-image pull-left" src="img/froide_276.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://github.com/aibolem/MuseScore-AddNotesFromChords/blob/master/test/Chords_note_spelling_German.mscz"></i> Chords note spelling Deutsch </a></p>
+<p class="lead"> Chords_note_spelling_french mm<a href="https://github.com/aibolem/MuseScore-AddNotesFromChords"> MuseScore-AddNotesFromChords </a><strong> by ©om₽o$€Å℞ჼunion s©iense 1932 by my mutter 'M.O.M.O.' & father 'LЁвАН' </strong></p>
+</div>
+  <hr class="featurette-divider">
+     <hr id="features" class="featurete-divider">
+        <div class="featurette">
+<img class="featurette-image pull-right" src="img/froide_277.png" alt="">
+<p><a class="btn btn-medium" href="https://aibolem.github.io/focus-visible/demo/"></i> demo </a>
+<p class="lead"> <a href="https://github.com/aibolem/focus-visible"> focus-visible </a><strong> repository of composites </strong> mm </p>
+ </div>
+   <hr class="featurette-divider">
+     <hr id="features" class="featurette-divider">
+        <div class="featurette">
+
 
 ______________________________________________________________________________________________________________________________________
 block with button
