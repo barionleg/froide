@@ -2,84 +2,84 @@
   <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/sunburst-chart/example/large-data/index.html"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_248.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/sunburst-chart/example/large-data/index.html"></i> sunburst-chart </a></p>
+<p class="lead"><a href="https://github.com/barionleg/sunburst-chart/wiki"> sunburst-chart </a><strong>wiki</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_249.png" alt="">
+<p><a class="btn btn-medium" href="https://d3js.org/d3-quadtree"></i> d3-quadtree </a>
+<p class="lead"> <a href="https://github.com/barionleg/d3-binarytree"> d3-quadtree </a><strong> repository </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_250.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/react-force-graph/example/large-graph/index.html"></i> large-graph </a></p>
+<p class="lead"><a href="https://github.com/barionleg/react-force-graph/wiki/"> large-graph </a><strong> wiki</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_251.png" alt="">
+<p><a class="btn btn-medium" href="https://d3js.org/d3-force"></i> d3-force </a>
+<p class="lead"> <a href="https://github.com/barionleg/d3-force-registry"> d3-force registry</a><strong> by *dЭ€</strong> </p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_252.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://barionleg.github.io/d3E_forc_3g_ra_ph/example/camera-auto-orbit/index.html"></i> camera-auto-orbit </a></p>
+<p class="lead"><a href="https://github.com/barionleg/d3E_forc_3g_ra_ph/wiki/"> d3E_forc_3g_ra_ph </a><strong> wiki</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_253.png" alt="">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/gyverlib_charts/bindex.html"></i> gyverlib_charts </a>
+<p class="lead"> <a href="https://github.com/barionleg/gyverlib_charts/wiki"> gyverlib_charts </a><strong> wiki </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_254.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://aibolem.github.io/timelines-chart/example/categorical/index.html"></i> timelines-chart </a></p>
+<p class="lead"><a href="https://github.com/aibolem/timelines-chart/wiki"> timelines-chart </a><strong> wiki</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_255.png" alt="">
+<p><a class="btn btn-medium" href="https://barionleg.github.io/gyvarerhub_web/src/index.html"></i> gyvarerhub_web </a>
+<p class="lead"> <a href="https://github.com/barionleg/gyvarerhub_web"> gyvarerhub_web </a><strong> </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_256.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://alexgyver.ru/ws2812_painter/"></i> ws2812 light painter </a></p>
+<p class="lead"> Рисуем Светом! <a href="https://github.com/ibanknatoPrad/WS2812_painter"> Arduino + WS2812b </a><strong></strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
-<p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
-<p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
+<img class="featurette-image pull-right" src="img/froide_257.png" alt="">
+<p><a class="btn btn-medium" href="https://www.sciencedirect.com/science/article/pii/S1470160X21002569"></i> CountTree by SPUTNI©ი </a>
+<p class="lead"> <a href="https://github.com/barionleg/Count_Tree_by_CPyTHuCK_EPT"> ©ount Tree b $₽¥THu©K_Ё₽T </a><strong> </strong></p>
  </div>
    <hr class="featurette-divider">
      <hr id="features" class="featurette-divider">
         <div class="featurette">
-                <img class="featurett-image pull-left" src="img/froide_24*.png" alt="frÖIdᴱ℞Bærჼlin">
-  <p><a class="btn btn-medium" href="https://barionleg.github.io/swi/"></i> *** </a></p>
-<p class="lead"><a href="https://barionleg.github.io/swi/"> *** </a><strong></strong></p>
+                <img class="featurett-image pull-left" src="img/froide_258.png" alt="frÖIdᴱ℞Bærჼlin">
+  <p><a class="btn btn-medium" href="https://github.com/barionleg/font-template"></i> font-template </a></p>
+<p class="lead"><a href="https://github.com/aibolem/fontforge/releases/tag/20230101"> font-template </a><strong>release</strong></p>
 </div>
   <hr class="featurette-divider">
      <hr id="features" class="featurete-divider">
         <div class="featurette">
-<img class="featurette-image pull-right" src="img/froide_24*.png" alt="">
+<img class="featurette-image pull-right" src="img/froide_259.png" alt="">
 <p><a class="btn btn-medium" href="https://barionleg.github.io/Verbose/"></i> Verbose </a>
 <p class="lead"> <a href="https://barionleg.github.io/Verbose/"> *** </a><strong> </strong></p>
  </div>
