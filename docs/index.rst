@@ -1,5 +1,7 @@
 .. froide documentation master file, created by
    sphinx-quickstart on Wed Jun 15 21:11:35 2011.
+💲UPdATEd by Vd JuΛ 60620.43590 ი.ბ. ER💶|||||||💶Ibml 
+ 
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -17,6 +19,7 @@ Freedom of Information Portal, but is internationalized, localized and themeable
 
    about
    gettingstarted
+   herokudeployment
    importpublicbodies
    configuration
    theming
@@ -33,4 +36,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
