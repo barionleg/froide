@@ -1,0 +1,80 @@
+<footer>
+        <!-- pagination elements (1) from I to XX -->
+    <center><div class="pagination_section">
+  <nav aria-label="326 & BeyOnd <> 6200 & WayONd">
+  <ul class="pagination">
+<!--<li class="page-item disabled"><span class="page-link">Previous</span></li>-->
+	<li class="page-item"><a class="page-link" href="indexXXXVII.html">Previous_XXXVII</a></li>
+    <li class="page-item active"><span class="page-link">I<span class="sr-only">(current)</span></span></li>
+	<li class="page-item"><a class="page-link" href="indexII.html">II</a></li>
+    <li class="page-item"><a class="page-link" href="indexIII.html">III</a></li>
+	<li class="page-item"><a class="page-link" href="indexIV.html">IV</a></li>
+    <li class="page-item"><a class="page-link" href="indexV.html">V</a></li>
+	<li class="page-item"><a class="page-link" href="indexVI.html">VI</a></li>
+    <li class="page-item"><a class="page-link" href="indexVII.html">VII</a></li>
+	<li class="page-item"><a class="page-link" href="indexVIII.html">VIII</a></li>
+    <li class="page-item"><a class="page-link" href="indexIX.html">IX</a></li>
+	<li class="page-item"><a class="page-link" href="indexX.html">X</a></li>
+    <li class="page-item"><a class="page-link" href="indexXI.html">XI</a></li>
+	<li class="page-item"><a class="page-link" href="indexXII.html">XII</a></li>
+    <li class="page-item"><a class="page-link" href="indexXIII.html">XIII</a></li>
+	<li class="page-item"><a class="page-link" href="indexXIV.html">XIV</a></li>
+    <li class="page-item"><a class="page-link" href="indexXV.html">XV</a></li>
+	<li class="page-item"><a class="page-link" href="indexXVI.html">XVI</a></li>
+    <li class="page-item"><a class="page-link" href="indexXVII.html">XVII</a></li>
+	<li class="page-item"><a class="page-link" href="indexXVIII.html">XVIII</a></li>
+    <li class="page-item"><a class="page-link" href="indexXIX.html">XIX</a></li>
+	<li class="page-item"><a class="page-link" href="indexXX.html">XX</a></li>
+    <li class="page-item"><a class="page-link" href="indexI.html">Next_XXI</a></li>
+<!--<li class="page-item disabled"><span class="page-link">Next</span></li>-->
+  </ul>
+</nav>
+     </center>
+<!-- end of pagination elements (1) from I to XX -->
+</footer>
+
+______________________________
+______________________________
+
+
+<footer>
+        <!-- pagination elements (2) from XXI to XXXXII -->
+
+		  <nav aria-label="326 & BeyOnd <> 6200 & WayONd">
+  <center><ul class="pagination">
+<!--<li class="page-item disabled"><span class="page-link">Previous</span></li>-->
+	<li class="page-item"><a class="page-link" href="indexXX.html">Previous_XX</a></li>
+    <li class="page-item active"><span class="page-link">XXI<span class="sr-only">(current)</span></span></li>
+	<li class="page-item"><a class="page-link" href="indexXXII.html">XXII</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXIII.html">XXIII</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXIV.html">XXIV</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXV.html">XXV</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXVI.html">XXVI</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXVII.html">XXVII</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXVIII.html">XXVIII</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXIX.html">XXIX</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXX.html">XXX</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXXI.html">XXXI</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXXII.html">XXXII</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXXIII.html">XXXIII</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXXIV.html">XXXIV</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXXV.html">XXXV</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXXVI.html">XXXVI</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXXVII.html">XXXVII</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXXVIII.html">XXXVIII</a></li>
+    <li class="page-item"><a class="page-link" href="indexXXXIX.html">XXXIX</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXXX.html">XXXX</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXXXI.html">XXXXI</a></li>
+	<li class="page-item"><a class="page-link" href="indexXXXXII.html">XXXXII</a></li>
+    <li class="page-item"><a class="page-link" href="indexI.html">Next_I</a></li>
+<!--<li class="page-item disabled"><span class="page-link">Next</span></li>-->
+  </ul>
+    </center>
+        <!-- end of pagination elements (2) from XXI to XXXXII -->
+</footer>
+</body></html>
+
+
+
+  
+</footer>
